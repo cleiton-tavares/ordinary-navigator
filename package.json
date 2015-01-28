@@ -1,0 +1,12 @@
+{
+	"main": "html/index.html",
+	"name": "Livros S.A",
+	"version": "0.1.1",
+	"window":{
+		"title": "Livros S.A",
+		"toolbar": false,
+		"frame": true,
+		"width": 994,
+		"height": 600
+	}
+}
